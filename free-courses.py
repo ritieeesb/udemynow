@@ -23,7 +23,7 @@ urls = ['https://geeksgod.com/category/freecoupons/udemy-courses-free/']
 
 #banner
 system('figlet -f slant Freedemy | lolcat')
-print(colored('- BY GOKUL -'.center(50),'green'))
+print(colored('- BY CERTIMATE -'.center(50),'green'))
 system("echo '\033[0;37m'")
 
 print('='*110)
